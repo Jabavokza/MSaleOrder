@@ -1,0 +1,84 @@
+2018-08-29 12:11:52,419 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 12:11:52,462 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 12:11:52,471 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 12:12:48,920 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 12:12:48,971 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 12:12:48,982 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 12:13:33,116 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 12:13:33,185 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 12:13:33,198 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 12:13:43,044 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 12:13:53,913 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 12:13:54,102 [5] ERROR - Value cannot be null.
+Parameter name: @this
+2018-08-29 17:19:52,244 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:19:52,298 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:19:52,308 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:20:20,211 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:20:27,905 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:20:27,951 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:20:27,962 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:20:37,679 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:20:46,048 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:20:46,087 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:20:46,104 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:20:59,503 [1] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-29 17:20:59,640 [1] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-29 17:20:59,644 [1] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-29 17:20:59,875 [1] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-29 17:21:02,075 [1] ERROR - Unable to connect to the remote server
+2018-08-29 17:21:02,089 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-29 17:21:02,092 [5] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-29 17:21:02,108 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-29 17:21:02,109 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-29 17:21:04,202 [5] ERROR - Unable to connect to the remote server
+2018-08-29 17:21:04,614 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:21:52,243 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:21:52,290 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:21:52,301 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:22:18,912 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:22:56,503 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:22:56,548 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:22:56,576 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:24:08,434 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:24:08,481 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:24:08,491 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:24:32,281 [1] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-29 17:24:32,302 [1] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-29 17:24:32,305 [1] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-29 17:24:32,436 [1] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-29 17:24:34,480 [1] ERROR - Unable to connect to the remote server
+2018-08-29 17:24:34,493 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-29 17:24:34,497 [5] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-29 17:24:34,524 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-29 17:24:34,524 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-29 17:24:36,538 [5] ERROR - Unable to connect to the remote server
+2018-08-29 17:27:17,640 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:27:17,685 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:27:17,703 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:27:29,927 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-29 17:27:29,957 [5] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-29 17:27:29,967 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-29 17:27:30,102 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-29 17:27:32,141 [5] ERROR - Unable to connect to the remote server
+2018-08-29 17:32:24,589 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:32:24,634 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:32:24,644 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-29 17:32:49,716 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-29 17:32:49,770 [5] ERROR - Value cannot be null.
+Parameter name: @this

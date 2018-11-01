@@ -1,0 +1,228 @@
+2018-09-22 16:30:14,488 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 16:30:14,516 [1] ERROR - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-09-22 16:30:17,626 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:30:17,643 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:30:17,664 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:32:45,010 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 16:32:45,033 [1] ERROR - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-09-22 16:41:26,304 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:41:26,318 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:41:26,343 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:42:39,455 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 16:42:39,478 [1] ERROR - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-09-22 16:42:53,946 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:42:53,961 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:42:53,983 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:03,907 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:03,917 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:03,937 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:05,561 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:05,570 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:05,585 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:07,744 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:07,757 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:07,782 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:09,278 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:09,290 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:09,306 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:11,546 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:11,557 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:11,577 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:12,726 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:12,736 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:12,755 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:46,633 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:46,643 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:46,668 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:48,171 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:48,182 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:48,202 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:50,503 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:50,517 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:50,538 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:51,563 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:51,573 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:43:51,591 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-22 16:44:05,225 [10] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-09-22 16:44:05,262 [10] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-09-22 16:44:05,267 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-09-22 16:44:05,526 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:07,616 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:07,629 [10] DEBUG - Add Header with BELNR : 17KA0000201573RF0000000002
+2018-09-22 16:44:07,678 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000002
+2018-09-22 16:44:07,681 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"500.00","BONUSBUYID":""}],"NAME1":"?????? ???????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201573RF0000000002","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00002.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982315488","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"32.71","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:09,719 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:09,731 [10] DEBUG - Add Header with BELNR : 17KA0000201590RF0000000003
+2018-09-22 16:44:09,736 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000003
+2018-09-22 16:44:09,738 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201590RF0000000003","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00003.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982389198","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165133","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"200.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:11,782 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:11,792 [10] DEBUG - Add Header with BELNR : 17KA0000201591RF0000000004
+2018-09-22 16:44:11,794 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000004
+2018-09-22 16:44:11,799 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"1000.00","BONUSBUYID":""}],"NAME1":"?????? ???????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201591RF0000000004","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00004.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165423","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"65.42","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:13,857 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:13,873 [10] DEBUG - Add Header with BELNR : 17KA0000201593RF0000000005
+2018-09-22 16:44:13,879 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000005
+2018-09-22 16:44:13,880 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ?????????????? ???? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201593RF0000000005","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00005.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0981651568","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982554884","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:15,922 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:15,932 [10] DEBUG - Add Header with BELNR : 17KA0000201594RF0000000006
+2018-09-22 16:44:15,935 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000006
+2018-09-22 16:44:15,940 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"4000.00","BONUSBUYID":""}],"NAME1":"?????? ?????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201594RF0000000006","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00006.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165133","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"258.41","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165133","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2500.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"261.68","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:17,988 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:18,002 [10] DEBUG - Add Header with BELNR : 17KA0000201595RF0000000007
+2018-09-22 16:44:18,027 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000007
+2018-09-22 16:44:18,029 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T008","AMOUNT":"6000.00","BONUSBUYID":""}],"NAME1":"?????? ???????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201595RF0000000007","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00007.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982167233","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"392.52","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0985467453","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"3000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"392.52","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"},{"POSEX":"30","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982167723","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"389.25","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:20,071 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:20,082 [10] DEBUG - Add Header with BELNR : 17KA0000201600RF0000000008
+2018-09-22 16:44:20,084 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000008
+2018-09-22 16:44:20,086 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T008","AMOUNT":"2500.00","BONUSBUYID":""}],"NAME1":"?????? ???????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201600RF0000000008","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00008.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"11","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"3000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"163.55","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:22,124 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:44:22,316 [10] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-09-22 16:44:22,411 [10] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-09-22 16:44:22,416 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-09-22 16:44:22,418 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:44:24,458 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:08,161 [10] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-09-22 16:45:08,196 [10] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-09-22 16:45:08,202 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-09-22 16:45:08,204 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:10,241 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:10,251 [10] DEBUG - Add Header with BELNR : 17KA0000201573RF0000000002
+2018-09-22 16:45:10,252 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000002
+2018-09-22 16:45:10,252 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"500.00","BONUSBUYID":""}],"NAME1":"?????? ???????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201573RF0000000002","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00002.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982315488","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"32.71","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:12,289 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:12,302 [10] DEBUG - Add Header with BELNR : 17KA0000201590RF0000000003
+2018-09-22 16:45:12,305 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000003
+2018-09-22 16:45:12,307 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201590RF0000000003","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00003.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982389198","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165133","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"200.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:14,353 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:14,363 [10] DEBUG - Add Header with BELNR : 17KA0000201591RF0000000004
+2018-09-22 16:45:14,368 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000004
+2018-09-22 16:45:14,370 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"1000.00","BONUSBUYID":""}],"NAME1":"?????? ???????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201591RF0000000004","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00004.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165423","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"65.42","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:16,410 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:16,420 [10] DEBUG - Add Header with BELNR : 17KA0000201593RF0000000005
+2018-09-22 16:45:16,426 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000005
+2018-09-22 16:45:16,428 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ?????????????? ???? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201593RF0000000005","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00005.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0981651568","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982554884","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:18,484 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:18,497 [10] DEBUG - Add Header with BELNR : 17KA0000201594RF0000000006
+2018-09-22 16:45:18,503 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000006
+2018-09-22 16:45:18,505 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"4000.00","BONUSBUYID":""}],"NAME1":"?????? ?????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201594RF0000000006","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00006.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165133","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"258.41","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982165133","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2500.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"261.68","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:20,542 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:20,553 [10] DEBUG - Add Header with BELNR : 17KA0000201595RF0000000007
+2018-09-22 16:45:20,556 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000007
+2018-09-22 16:45:20,558 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T008","AMOUNT":"6000.00","BONUSBUYID":""}],"NAME1":"?????? ???????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201595RF0000000007","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00007.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982167233","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"392.52","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011003"},{"POSEX":"20","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0985467453","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"3000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"392.52","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"},{"POSEX":"30","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982167723","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"389.25","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:22,601 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:45:22,611 [10] DEBUG - Add Header with BELNR : 17KA0000201600RF0000000008
+2018-09-22 16:45:22,616 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000008
+2018-09-22 16:45:22,618 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180802","TENDER":[{"TENDER_TYPE":"T008","AMOUNT":"2500.00","BONUSBUYID":""}],"NAME1":"?????? ???????????????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201600RF0000000008","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00008.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"11","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"3000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"163.55","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011008"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:45:24,657 [10] ERROR - Unable to connect to the remote server
+2018-09-22 16:47:08,294 [10] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-09-22 16:47:08,334 [10] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-09-22 16:47:08,340 [10] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-09-22 16:47:08,341 [10] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-09-22 16:47:10,386 [10] ERROR - Unable to connect to the remote server
+2018-09-22 17:19:46,601 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:19:46,786 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:19:49,990 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:19:51,279 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:20:10,286 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:20:10,544 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:23:27,210 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:24:10,586 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:24:29,251 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:29:19,332 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-22 17:30:08,635 [1] ERROR - Object reference not set to an instance of an object.

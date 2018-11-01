@@ -1,0 +1,73 @@
+2018-08-11 00:49:15,937 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-11 00:49:22,415 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 00:49:22,462 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 00:52:07,323 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-11 00:52:16,239 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 00:52:16,337 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 00:52:49,608 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-11 00:53:00,594 [5] DEBUG - Add Header with BELNR : 09KB0004800272RF0000044346
+2018-08-11 00:53:00,600 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044346
+2018-08-11 00:53:03,975 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"UPDATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"Kitti Lee","NAME2":"","NAME3":"","NAME4":"","STREET":"789/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว แขวง คลองเจ้าคุณสิงห์ ","CITY":"","POSTAL_CODE":"10310","LAND":"TH","TEL":"","FAX":"021233333","DISTRICT":"","BELNR":"09KB0004800272RF0000044346","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"789/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว แขวง คลองเจ้าคุณสิงห์  เขตวังทองหลาง"},{"TDLINE":"10310"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"1111111111_1_20180809164436.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 00:53:09,589 [5] ERROR - Unable to connect to the remote server
+2018-08-11 00:54:12,339 [12] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-11 00:55:11,690 [12] DEBUG - Add Header with BELNR : 09KB0004800275RF0000044348
+2018-08-11 00:55:11,693 [12] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044348
+2018-08-11 00:55:13,851 [12] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2500.00","BONUSBUYID":""}],"NAME1":"น.ส. วิไลรัตน์ แซ่พ่าน","NAME2":"","NAME3":"","NAME4":"","STREET":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต","CITY":"","POSTAL_CODE":"10310","LAND":"TH","TEL":"022222222","FAX":"021111111","DISTRICT":"","BELNR":"09KB0004800275RF0000044348","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต วังทองหลาง"},{"TDLINE":"10310"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"03333333_1_20180810120535.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"P008","AMOUNT":"100.00","CURRENCY":"THB","SIGN":"-","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"124.30","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"},{"POSEX":"20","QUANTITY":"1","UOM":"","SERIALNUMBER":"15561","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"500.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"32.71","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"020851"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 00:55:17,880 [12] ERROR - Unable to connect to the remote server
+2018-08-11 00:56:53,294 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-11 00:57:01,809 [5] DEBUG - Add Header with BELNR : 09KB0004800277RF0000044349
+2018-08-11 00:57:01,813 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044349
+2018-08-11 00:57:03,440 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CANCEL","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"น.ส. วิไลรัตน์ แซ่พ่าน","NAME2":"","NAME3":"","NAME4":"","STREET":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต","CITY":"","POSTAL_CODE":"10310","LAND":"TH","TEL":"022222222","FAX":"021111111","DISTRICT":"","BELNR":"09KB0004800277RF0000044349","REF_BELNR":"09KB0004800277RF0000044349","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต วังทองหลาง"},{"TDLINE":"10310"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"03333333_1_20180810120535.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 00:57:07,256 [5] ERROR - Unable to connect to the remote server
+2018-08-11 01:02:43,251 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-11 01:02:46,758 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 01:02:46,784 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 01:04:32,326 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-11 01:04:35,625 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 01:04:35,662 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-11 01:05:36,056 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-11 01:05:46,648 [5] DEBUG - Add Header with BELNR : 09KB0004800270RF0000044345
+2018-08-11 01:05:46,654 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044345
+2018-08-11 01:05:50,198 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"(Edit)-> Pacific Inter- Freight (Thailand) Co.,Ltd.","NAME2":"","NAME3":"","NAME4":"","STREET":"No.90  4th Fl., Fiftyfifth Bldg., Soi Sukhumvit 55,","CITY":"","POSTAL_CODE":"10110","LAND":"TH","TEL":"027138673","FAX":"","DISTRICT":"","BELNR":"09KB0004800270RF0000044345","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"No.90  4th Fl., Fiftyfifth Bldg., Soi Sukhumvit 55, Klongton-Nua"},{"TDLINE":"Wattana, Bangkok 10110 Thailand"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"0816979997_1_20161216130650.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 01:05:54,349 [5] ERROR - Unable to connect to the remote server
+2018-08-11 01:06:44,180 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-11 01:06:56,611 [5] DEBUG - Add Header with BELNR : 09KB0004800275RF0000044348
+2018-08-11 01:06:56,614 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044348
+2018-08-11 01:06:58,975 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2500.00","BONUSBUYID":""}],"NAME1":"น.ส. วิไลรัตน์ แซ่พ่าน","NAME2":"","NAME3":"","NAME4":"","STREET":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต","CITY":"","POSTAL_CODE":"10310","LAND":"TH","TEL":"022222222","FAX":"021111111","DISTRICT":"","BELNR":"09KB0004800275RF0000044348","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต วังทองหลาง"},{"TDLINE":"10310"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"03333333_1_20180810120535.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"P008","AMOUNT":"100.00","CURRENCY":"THB","SIGN":"-","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"124.30","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"},{"POSEX":"20","QUANTITY":"1","UOM":"","SERIALNUMBER":"15561","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"500.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"32.71","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"020851"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 01:07:02,461 [5] ERROR - Unable to connect to the remote server
+2018-08-11 01:07:16,930 [5] DEBUG - Add Header with BELNR : 09KB0004800272RF0000044346
+2018-08-11 01:07:16,933 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044346
+2018-08-11 01:07:19,884 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"UPDATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"Kitti Lee","NAME2":"","NAME3":"","NAME4":"","STREET":"789/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว แขวง คลองเจ้าคุณสิงห์ ","CITY":"","POSTAL_CODE":"10310","LAND":"TH","TEL":"","FAX":"021233333","DISTRICT":"","BELNR":"09KB0004800272RF0000044346","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"789/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว แขวง คลองเจ้าคุณสิงห์  เขตวังทองหลาง"},{"TDLINE":"10310"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"1111111111_1_20180809164436.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 01:07:23,847 [5] ERROR - Unable to connect to the remote server
+2018-08-11 01:07:30,768 [5] DEBUG - Add Header with BELNR : 09KB0004800271RF0000044347
+2018-08-11 01:07:30,773 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044347
+2018-08-11 01:07:32,458 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"กิตติ ลีรติวงศ์","NAME2":"","NAME3":"","NAME4":"","STREET":"155/1 ซ.โรงธูป2 ตใปาดังเบซาร์ อ.สะเดา จ.สงขลา ","CITY":"","POSTAL_CODE":"90240","LAND":"TH","TEL":"021669595","FAX":"32165402","DISTRICT":"","BELNR":"09KB0004800271RF0000044347","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"155/1 ซ.โรงธูป2 ตใปาดังเบซาร์ อ.สะเดา จ.สงขลา "}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"0841669999_1_20180810103346.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 01:07:35,978 [5] ERROR - Unable to connect to the remote server
+2018-08-11 01:07:45,723 [5] DEBUG - Add Header with BELNR : 09KB0004800277RF0000044349
+2018-08-11 01:07:45,726 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000044349
+2018-08-11 01:07:46,769 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CANCEL","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180810","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"น.ส. วิไลรัตน์ แซ่พ่าน","NAME2":"","NAME3":"","NAME4":"","STREET":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต","CITY":"","POSTAL_CODE":"10310","LAND":"TH","TEL":"022222222","FAX":"021111111","DISTRICT":"","BELNR":"09KB0004800277RF0000044349","REF_BELNR":"09KB0004800277RF0000044349","TEXT":[{"TDID":"ZADR","TDBODY":[{"TDLINE":"768/1 ซ.ลาดพร้าว101 ถ.ลาดพร้าว  แขวงคลิงเจ้าคุณสิงห์   เขต วังทองหลาง"},{"TDLINE":"10310"}]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"03333333_1_20180810120535.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1","UOM":"","SERIALNUMBER":"","SHIPPING_POINT":"","SELLING_PLANT":"09KB","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"1"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-11 01:07:49,229 [5] ERROR - Unable to connect to the remote server

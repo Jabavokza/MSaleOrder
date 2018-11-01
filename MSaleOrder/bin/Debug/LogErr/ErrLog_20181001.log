@@ -1,0 +1,54 @@
+2018-10-01 18:42:37,976 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:42:38,031 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:a83aa332-b2a0-4978-b151-d3d6ce7d3977
+Error Number:207,State:1,Class:16
+2018-10-01 18:46:56,057 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:46:56,089 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:585eb4ef-cfe9-4fdf-b032-786df48a4026
+Error Number:207,State:1,Class:16
+2018-10-01 18:46:57,728 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:46:57,736 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:585eb4ef-cfe9-4fdf-b032-786df48a4026
+Error Number:207,State:1,Class:16
+2018-10-01 18:46:58,403 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:46:58,409 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:585eb4ef-cfe9-4fdf-b032-786df48a4026
+Error Number:207,State:1,Class:16
+2018-10-01 18:46:59,147 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:46:59,168 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:585eb4ef-cfe9-4fdf-b032-786df48a4026
+Error Number:207,State:1,Class:16
+2018-10-01 18:49:39,285 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:49:39,305 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:d28d0766-8087-406c-97ec-2afcf9a13107
+Error Number:207,State:1,Class:16
+2018-10-01 18:49:40,637 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:49:40,647 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:d28d0766-8087-406c-97ec-2afcf9a13107
+Error Number:207,State:1,Class:16
+2018-10-01 18:49:42,335 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:49:42,344 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:d28d0766-8087-406c-97ec-2afcf9a13107
+Error Number:207,State:1,Class:16
+2018-10-01 18:49:42,941 [1] ERROR - SP_READxSQL:Invalid column name 'FTSRVName'.Query:SELECT DISTINCT TOP 5000 FTTmnNum, FTShdTransNo, FTXihDocType, FTXihDocNo , FDShdDepositDueDate AS DLVRY_DATE, FTXihCstName, FTXihCstAddr1 , FTXihCstAddr2 , FTXihCstTel AS TEL , FTXihCstFax AS FAX , FTShdPlantCode , FTShdPlantCode + FTTmnNum + FTShdTransNo + FTXihDocNo as BELNR , FTXihDepositDueTime, FTXihRemark , FTXihEquipment , FTRemark , FTStaSentOnOff , FTSRVName , FNShdDocPrint FROM [dbo].[TPSTSalVatHD] WHERE [FTXihDocType] = '17' 
+2018-10-01 18:49:42,962 [1] ERROR - W_ReadSalDB:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'FTSRVName'.
+   at MSaleOrder.ST_Class.cSalVat.C_READxSalHD(String ptPlant, String ptSendSta, String ptFTXihDocNo, String ptServName) in D:\Project\MSaleOrder\MSaleOrder\ST-Class\cSalVat.cs:line 96
+   at MSaleOrder.wMSaleOrderMain.W_ReadSalDB() in D:\Project\MSaleOrder\MSaleOrder\wMain.cs:line 234
+ClientConnectionId:d28d0766-8087-406c-97ec-2afcf9a13107
+Error Number:207,State:1,Class:16

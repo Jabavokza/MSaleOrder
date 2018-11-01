@@ -1,0 +1,85 @@
+2018-08-28 19:03:33,215 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:04:01,340 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:10:27,542 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:10:27,584 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:10:27,595 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:10:58,703 [1] ERROR - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018-08-28 19:11:32,146 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:13:34,497 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:13:34,541 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:13:34,551 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:17:47,766 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:17:47,828 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:17:47,837 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:18:17,606 [1] ERROR - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018-08-28 19:18:56,726 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:19:25,162 [1] ERROR - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018-08-28 19:25:10,983 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:25:11,020 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:25:11,029 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:26:28,959 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:26:29,011 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:26:29,022 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:26:59,417 [5] ERROR - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018-08-28 19:31:08,500 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:31:08,544 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:31:08,555 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:31:38,476 [5] ERROR - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018-08-28 19:35:30,649 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:35:30,691 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:35:30,701 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:36:02,716 [5] ERROR - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018-08-28 19:36:23,561 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:54:27,201 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:54:27,274 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:54:27,313 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:54:30,199 [5] ERROR - Cross-thread operation not valid: Control 'odgDashBoard' accessed from a thread other than the thread it was created on.
+2018-08-28 19:57:06,810 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:57:06,846 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:57:06,856 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:57:33,609 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 19:57:58,708 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:57:58,752 [5] ERROR - Value cannot be null.
+Parameter name: @this
+2018-08-28 19:58:07,068 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 19:58:07,121 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:58:07,132 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 19:59:04,434 [6] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 20:00:10,897 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 20:00:10,941 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:00:10,952 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:00:51,672 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 20:01:47,262 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 20:01:47,309 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:01:47,319 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:02:14,204 [1] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 20:02:14,218 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 20:02:27,880 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 20:02:35,836 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 20:02:35,870 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:02:35,880 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:05:03,086 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 20:05:03,157 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 20:05:03,180 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 21:26:15,307 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 21:26:15,355 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 21:26:15,364 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 21:26:59,049 [1] ERROR - Object reference not set to an instance of an object.
+2018-08-28 21:26:59,083 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 21:26:59,095 [1] DEBUG - Timer mode = Time Interval ,Interval = 600000
+2018-08-28 21:27:27,951 [1] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 21:27:28,241 [1] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-28 21:27:28,248 [1] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-28 21:27:28,554 [1] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-28 21:27:30,624 [1] ERROR - Unable to connect to the remote server
+2018-08-28 21:27:30,638 [5] DEBUG - Start Processing data from table TPSTSalVatHD
+2018-08-28 21:27:30,642 [5] DEBUG - Add Header with BELNR : 17KA0000201572RF0000000001
+2018-08-28 21:27:30,645 [5] DEBUG - Update StaSend of SalVatHD with FTXihDocNo : RF0000000001
+2018-08-28 21:27:30,645 [5] DEBUG - Send Request to : http://localhost:8080/Test
+<<<======JsonREQ======>>>
+{"SalesOrder":{"Header":{"ACTION":"CREATE","TRANSTYPE":"ZCDO","DLVRY_DATE":"20180801","TENDER":[{"TENDER_TYPE":"T001","AMOUNT":"2000.00","BONUSBUYID":""}],"NAME1":"?????? ??.????.??.???????? ?????","NAME2":"","NAME3":"","NAME4":"","STREET":"","CITY":"","POSTAL_CODE":"","LAND":"TH","TEL":"","FAX":"","DISTRICT":"","BELNR":"17KA0000201572RF0000000001","REF_BELNR":"","TEXT":[{"TDID":"ZADR","TDBODY":[]},{"TDID":"ZDLT","TDBODY":[{"TDLINE":""}]},{"TDID":"ZREM","TDBODY":[{"TDLINE":""},{"TDLINE":""}]},{"TDID":"ZMAP","TDBODY":[{"TDLINE":"Map00001.pdf"}]}],"Item":[{"POSEX":"10","QUANTITY":"1.00","UOM":"EA","SERIALNUMBER":"0982326568","SHIPPING_POINT":"17KB","SELLING_PLANT":"17KA","PRICING":[{"TYPE":"RETAILPRICE","AMOUNT":"2000.00","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""},{"TYPE":"VAT","AMOUNT":"130.84","CURRENCY":"THB","SIGN":"+","BONUSBUYID":""}],"EANCODE":"011002"}]}}}
+<<<======EndJsonREQ======>>>
+2018-08-28 21:27:32,657 [5] ERROR - Unable to connect to the remote server

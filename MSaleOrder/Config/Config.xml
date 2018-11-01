@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mSaleOrderConfig>
+  <ScheduleConfig>
+    <ScheduleType>PerTime</ScheduleType>
+    <PerTime>00:10</PerTime>
+    <DaySchdl>
+      <DayTime>00:00</DayTime>
+      <Enable>True</Enable>
+      <Remark>
+      </Remark>
+    </DaySchdl>
+    <DaySchdl>
+      <DayTime>03:00</DayTime>
+      <Enable>True</Enable>
+      <Remark>
+      </Remark>
+    </DaySchdl>
+    <DaySchdl>
+      <DayTime>06:00</DayTime>
+      <Enable>True</Enable>
+      <Remark>
+      </Remark>
+    </DaySchdl>
+    <DaySchdl>
+      <DayTime>09:00</DayTime>
+      <Enable>True</Enable>
+      <Remark>
+      </Remark>
+    </DaySchdl>
+    <DaySchdl>
+      <DayTime>12:00</DayTime>
+      <Enable>True</Enable>
+      <Remark>
+      </Remark>
+    </DaySchdl>
+  </ScheduleConfig>
+  <DBConfig>
+    <ClientDB PlantCode ="KA">
+      <PlantName>MALL01</PlantName>
+      <ServerURI>localhost\sql2012</ServerURI>
+      <DataBase>POSSDB_SP</DataBase>
+      <Username>sa</Username>
+      <Password>adasoft</Password>
+    </ClientDB>
+    <ClientDB PlantCode ="KB">
+      <PlantName>MALL01</PlantName>
+      <ServerURI>localhost\sql2012</ServerURI>
+      <DataBase>POSSDB_DP</DataBase>
+      <Username>sa</Username>
+      <Password>adasoft</Password>
+    </ClientDB>
+  </DBConfig>
+  <WebAPIConn>
+    <ServerURI>http://localhost:8080/Test</ServerURI>
+    <Username>user</Username>
+    <Password>1234</Password>
+  </WebAPIConn>
+</mSaleOrderConfig>

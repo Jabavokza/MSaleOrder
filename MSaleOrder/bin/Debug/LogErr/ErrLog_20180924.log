@@ -1,0 +1,57 @@
+2018-09-24 17:31:42,366 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 18:14:11,127 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 18:40:36,863 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 18:41:32,903 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-24 18:41:32,920 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-24 18:41:32,942 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-24 18:41:36,010 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-24 18:41:36,022 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-24 18:41:36,043 [1] ERROR - Value cannot be null.
+Parameter name: value
+2018-09-24 18:47:48,464 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 18:49:35,732 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 18:49:35,855 [13] ERROR - backgroundWorker1_DoWork :Value cannot be null.
+Parameter name: @this
+2018-09-24 20:00:47,000 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:07:40,160 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:07:56,542 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:10:55,730 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:12:31,633 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:12:31,668 [1] ERROR - InvalidArgument=Value of '-1' is not valid for 'index'.
+Parameter name: index
+2018-09-24 20:13:13,383 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:13:13,415 [1] ERROR - InvalidArgument=Value of '-1' is not valid for 'index'.
+Parameter name: index
+2018-09-24 20:13:57,752 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:15:15,806 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:17:32,353 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:19:24,989 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:22:12,978 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:23:23,682 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:23:50,372 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:24:57,610 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:25:11,456 [1] ERROR - InvalidArgument=Value of '2' is not valid for 'index'.
+Parameter name: index
+2018-09-24 20:25:42,061 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:26:41,131 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:27:12,513 [1] ERROR - InvalidArgument=Value of '2' is not valid for 'index'.
+Parameter name: index
+2018-09-24 20:27:38,459 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:29:40,060 [1] ERROR - InvalidArgument=Value of '2' is not valid for 'index'.
+Parameter name: index
+2018-09-24 20:29:47,128 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:31:32,030 [1] ERROR - InvalidArgument=Value of '2' is not valid for 'index'.
+Parameter name: index
+2018-09-24 20:32:45,298 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:40:21,102 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:41:57,848 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:44:06,159 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:46:35,049 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:51:59,639 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:54:03,175 [1] ERROR - Object reference not set to an instance of an object.
+2018-09-24 20:57:15,441 [1] ERROR - Object reference not set to an instance of an object.
