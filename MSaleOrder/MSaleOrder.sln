@@ -22,4 +22,12 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C501C52-8C4F-4996-8664-339BA7F79226}
 	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = MSaleOrder\\MSaleOrder.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = MSaleOrder\\
+	EndGlobalSection
 EndGlobal
